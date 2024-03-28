@@ -89,6 +89,6 @@ re_nutr['nutritions_gpt_3.5']=[get_formatted_response(resp_31)['nutritions']]
 re_nutr['nutritions_gpt_4']=[get_formatted_response(resp_32)['nutritions']]
 
 re_nutr
-'''
+```
 
 <img width="1298" alt="image" src="https://github.com/ashwinimaurya/extract_product_info/assets/13278692/5aa7346b-86d7-4856-be9c-44e3e1624f35">

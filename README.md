@@ -92,3 +92,5 @@ re_nutr
 ```
 
 <img width="1298" alt="image" src="https://github.com/ashwinimaurya/extract_product_info/assets/13278692/5aa7346b-86d7-4856-be9c-44e3e1624f35">
+
+Its worth noting that GPT 4 model resposnes are better than Turbo 3.5 as GPT 4 is much large model and better able to understand the intricacy in the questions and comes up with better responses. It can extract additional nutrition than one using Turbo 3.5
